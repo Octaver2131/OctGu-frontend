@@ -204,14 +204,14 @@ const Welcome: React.FC = () => {
           >
             <InfoCard
               index={1}
-              href="https://github.com/Octaver2131/Octgu-backend-demo"
+              href="https://github.com/Octaver2131/Octgu-backend"
               title="查看后端代码"
               desc="咕噜咕噜的后端基于Spring Boot构建，提供了稳定可靠的API服务。"
             />
             <InfoCard
               index={2}
               title="查看前端代码"
-              href="https://github.com/Octaver2131/Octgu-frontend-demo"
+              href="https://github.com/Octaver2131/Octgu-frontend"
               desc="咕噜咕噜的前端基于Ant Design Pro构建，提供了美观易用的用户界面。"
             />
             <InfoCard
